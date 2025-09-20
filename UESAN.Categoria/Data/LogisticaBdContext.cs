@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace UESAN.Logistica.API.Data;
+namespace UESAN.Categoria.Data;
 
 public partial class LogisticaBdContext : DbContext
 {

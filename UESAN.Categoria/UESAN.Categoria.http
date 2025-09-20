@@ -1,0 +1,6 @@
+@UESAN.Categoria_HostAddress = http://localhost:5185
+
+GET {{UESAN.Categoria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
